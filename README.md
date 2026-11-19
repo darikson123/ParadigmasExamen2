@@ -106,12 +106,14 @@ Para un servidor local, usar `-Dsonar.host.url=http://localhost:9000` y omitir `
 
 ## Declaración de uso de IA
 
-| Herramienta | Actividades en las que se usó |
+## Declaración de uso de IA
+
+| Herramienta | Uso |
 |---|---|
-| Claude (Anthropic) | Apoyo en el análisis del proyecto original, propuesta de la arquitectura hexagonal y de los patrones GoF, elaboración de diagramas, escritura de código, pruebas unitarias, JavaDoc y este README. |
+| Claude (Anthropic) | Apoyo en revisión, el diseño, la implementación y las pruebas del proyecto. |
+| ChatGPT (OpenAI) | Apoyo en la redacción de las instrucciones dadas a Claude. |
 
-Todo el contenido generado con apoyo de IA fue revisado, ejecutado y validado por el autor.
-
+Todo el contenido fue revisado, ejecutado y validado por el autor.
 ## Autor
 
 Darikson Nikolas Camargo Ayala
